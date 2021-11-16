@@ -11,7 +11,7 @@ This repository includes sample Jupyter notebook with a Python 3 Kernel.
 **Instructions**
 - Clone the repository
 - From within the PythonETL directory [launch Jupyter](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
-- Open the PythonETL.ipnb notebook in the browser and execute the commands. Tada that simple!!
+- Open the PythonETL.ipynb notebook in the browser and execute the commands. Tada that simple!!
 
 **Files**
 - Data.csv
